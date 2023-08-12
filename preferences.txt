@@ -1,0 +1,5 @@
+movie: несколько
+serial: не смотрю
+food: её много
+season: summer
+country: usa
